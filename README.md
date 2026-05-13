@@ -1,4 +1,5 @@
 # PLC-Siemens-Study-Case-Using-TIA-Portal
 
-![Project Image](images/huh.jpg)
+<img src="images/project.png" width="500">
+
 Work In Progress
